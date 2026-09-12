@@ -51,7 +51,7 @@ If this policy changes — for example, if a future version of the app adds feat
 Questions about this policy can be sent to: **swalef.app@gmail.com**
 
 ---
-
+<div dir="rtl" markdown="1">
 ## العربية
 
 ### نظرة عامة
@@ -97,3 +97,4 @@ Questions about this policy can be sent to: **swalef.app@gmail.com**
 ### للتواصل
 
 للاستفسار عن هذه السياسة: **swalef.app@gmail.com**
+</div>
