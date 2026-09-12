@@ -48,7 +48,7 @@ If this policy changes — for example, if a future version of the app adds feat
 
 ### Contact
 
-Questions about this policy can be sent to: **shahad.alsaeed70@gmail.com**
+Questions about this policy can be sent to: **swalef.app@gmail.com**
 
 ---
 
@@ -96,4 +96,4 @@ Questions about this policy can be sent to: **shahad.alsaeed70@gmail.com**
 
 ### للتواصل
 
-للاستفسار عن هذه السياسة: **shahad.alsaeed70@gmail.com**
+للاستفسار عن هذه السياسة: **swalef.app@gmail.com**
